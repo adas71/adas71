@@ -1,0 +1,4 @@
+- Hi, I’m @adas71
+- I’m interested in programming
+- I’m currently learning PHP, Java and Javascript.
+- You can contact me on adamcendelin@seznam.cz
